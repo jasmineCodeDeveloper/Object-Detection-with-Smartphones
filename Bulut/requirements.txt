@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+firebase-admin
+google-cloud-storage
+opencv-python
+numpy
